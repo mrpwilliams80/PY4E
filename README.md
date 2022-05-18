@@ -10,5 +10,5 @@ Dr Severance is a Professor at the University of Michigan and has a number of ed
 
 ## Assignments
 
-- ### 01 Installing Python
-  - [Peer Review](01-InstallingPython/01.01-PeerReview.md)
+- ### [01 Installing Python](01-InstallingPython/01-InstallingPython.md)
+- ### [02 Why Program](02-WhyProgram/02-WhyProgram.md)
