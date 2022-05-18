@@ -16,8 +16,21 @@ Dr Severance is a Professor at the University of Michigan and has a number of ed
 
 ## Badges
 
-These badges contain the official Open Badge metadata. To validate the badge use a simple badge validator, such as [badgecheck.io](https://badgecheck.io/).
+These badges contain the official Open Badge metadata. To validate the badge use a simple badge validator, such as [badgecheck.io](https://badgecheck.io/). Download the image or right-click and copy the link address and submit along with my e-mail address to have the metadata confirm someone using that e-mail address earned them from py4e.com
 
-<img src="Badges/enrolled.png" alt="py4e enrolment badge" style="float: left; margin: 20px;">
-
-<img src="Badges/hello.png" alt="py4e enrolment badge" style="float: left; margin: 20px;">
+<table style="width: 100%">
+    <tr>
+        <td style="width:20%">
+            <img src="Badges/enrolled.png" alt="py4e enrolment badge" style="margin:auto;width:90%">
+        </td>
+        <td style="width:20%">
+            <img src="Badges/hello.png" alt="py4e enrolment badge" style="margin:auto; width:90%">
+        </td>
+        <td style="width:20%">
+        </td>
+        <td style="width:20%">
+        </td>
+        <td style="width:20%">
+        </td>
+    </tr>
+</table>
