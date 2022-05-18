@@ -13,3 +13,11 @@ Dr Severance is a Professor at the University of Michigan and has a number of ed
 - ### [01 Installing Python](01-InstallingPython/01-InstallingPython.md)
 - ### [02 Why Program](02-WhyProgram/02-WhyProgram.md)
 - ### [03 Variables Expressions and Statements](03-VariablesExpressionsStatements/03-VariablesExpressionsStatements.md)
+
+## Badges
+
+These badges contain the official Open Badge metadata. To validate the badge use a simple badge validator, such as [badgecheck.io](https://badgecheck.io/).
+
+<img src="Badges/enrolled.png" alt="py4e enrolment badge" style="float: left; margin: 20px;">
+
+<img src="Badges/hello.png" alt="py4e enrolment badge" style="float: left; margin: 20px;">
