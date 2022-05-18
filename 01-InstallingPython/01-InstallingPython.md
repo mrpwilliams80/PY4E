@@ -28,7 +28,7 @@ Python 3.10.4 already installed. The result was as follows:
 
 #### Windows 10
 
-python-3.10.4-amd64.exe downloaded from [python.org](www.python.org/downloads/release/python-3104/) and installed. Results as follows:
+python-3.10.4-amd64.exe downloaded from [python.org](http://www.python.org/downloads/release/python-3104/) and installed. Results as follows:
 
 <img src="./01.01-WindowsConsoleOutput.png" alt="Windows Console Output" style="width:65%">
 
