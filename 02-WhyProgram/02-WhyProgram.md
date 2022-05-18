@@ -26,7 +26,7 @@ see [02.01-hello.py](02.01-hello.py)
 
 **RESULT**
 
-![Autograder Result](02.01-AutograderResult.png)
+![Console Output](02.01-ConsoleOutput.png)
 
 <br>
 
@@ -42,11 +42,11 @@ see [02.01-hello.py](02.01-hello.py)
 
 ### 2. What will the following program print out:
 
-    ```python
-    >>> x = 15
-    >>> x = x + 5
-    >>> print(x)
-    ```
+```python
+>>> x = 15
+>>> x = x + 5
+>>> print(x)
+```
 
    - 20
 
@@ -79,7 +79,7 @@ see [02.01-hello.py](02.01-hello.py)
 
   - Secondary Memory
 
-### 0.  What is the best way to think about a "Syntax Error" while programming?
+### 10.  What is the best way to think about a "Syntax Error" while programming?
 
   - The computer did not understand the statement that you entered
 

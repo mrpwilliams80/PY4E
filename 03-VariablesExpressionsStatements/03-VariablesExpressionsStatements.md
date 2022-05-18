@@ -25,7 +25,7 @@ see [03.01-rate.py](03.01-rate.py)
 
 **RESULT**
 
-![Autograder Result](03.01-AutograderResult.png)
+![Console Output](03.01-ConsoleOutput.png)
 
 <br>
 
@@ -121,7 +121,7 @@ x = int(98.6)
 
 **RESULT**
 
-![Quiz Result](02.02-QuizResult.png)
+![Quiz Result](03.02-QuizResult.png)
 
 <br>
 
