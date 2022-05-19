@@ -99,15 +99,15 @@ if x == 6 :
     print('Third 6')
 ```
 
-### 6. It looks perfect but Python is giving you an 'Indentation Error' on the second print statement. What is the most likely reason?
+### It looks perfect but Python is giving you an 'Indentation Error' on the second print statement. What is the most likely reason?
 
   - You have mixed tabs and spaces in the file
 
-### 7. What is the Python reserved word that we use in two-way if tests to indicate the block of code that is to be executed if the logical test is false?
+### 6. What is the Python reserved word that we use in two-way if tests to indicate the block of code that is to be executed if the logical test is false?
 
   - else
 
-### 8. What will the following code print out?
+### 7. What will the following code print out?
 
 ```python
 x = 0
@@ -122,7 +122,7 @@ print('All done')
 
   - Small All done
 
-### 9. For the following code what value of 'x' will cause 'Something else' to print out?
+### 8. For the following code what value of 'x' will cause 'Something else' to print out?
 
 ```python
 if x < 2 :
@@ -135,7 +135,7 @@ else :
 
   - This code will never print 'Something else' regardless of the value for 'x'
 
-### 10. In the following code (numbers added) - which will be the last line to execute successfully?
+### 9. In the following code (numbers added) - which will be the last line to execute successfully?
 
 ```python
 (1)   astr = 'Hello Bob'
@@ -148,7 +148,7 @@ else :
 
   - 1
 
-### 11. For the following code what will the value be for istr after this code executes?
+### 10. For the following code what will the value be for istr after this code executes?
 
 ```python
 astr = 'Hello Bob'
