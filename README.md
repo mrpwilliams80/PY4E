@@ -16,6 +16,7 @@ Dr Severance is a Professor at the University of Michigan and has a number of ed
 - ### [04 Conditional Execution](04-ConditionalExecution/04-ConditionalExecution.md)
 - ### [05 Functions](05-Functions/05-Functions.md)
 - ### [06 Loops and Iterations](06-LoopsIterations/06-LoopsIterations.md)
+- ### [07 Strings](07-Strings/07-Strings.md)
 
 ## Badges
 
