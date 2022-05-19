@@ -9,7 +9,7 @@
   - [Worked Exercise 3.2](https://youtu.be/-iUA4cCKRlM)
 - ### Images & Text
   - [Slides](../Resources/Slides/Pythonlearn-03-Conditional.pptx)
-  - [Chapter One html](https://www.py4e.com/html3/03-conditional)
+  - [Chapter Three html](https://www.py4e.com/html3/03-conditional)
 
 <br>
 

@@ -7,7 +7,7 @@
   - [Worked Exercise 4.6](https://youtu.be/l93PhBUJ_S0)
 - ### Images & Text
   - [Slides](../Resources/Slides/Pythonlearn-04-Functions.pptx)
-  - [Chapter One html](https://www.py4e.com/html3/04-functions)
+  - [Chapter Four html](https://www.py4e.com/html3/04-functions)
 
 <br>
 

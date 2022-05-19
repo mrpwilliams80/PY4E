@@ -9,7 +9,7 @@
   - [Worked Exercise 2.3](https://youtu.be/DVmspDooG2c)
 - ### Images & Text
   - [Slides](../Resources/Slides/Pythonlearn-02-Expressions.pptx)
-  - [Chapter One html](https://www.py4e.com/html3/02-variables)
+  - [Chapter Two html](https://www.py4e.com/html3/02-variables)
 
 <br>
 
