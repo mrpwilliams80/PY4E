@@ -5,8 +5,8 @@
 - ### Videos
   - [Part 1](https://youtu.be/2aA3VBdcl6A)
   - [Part 2](https://youtu.be/OczkNrHPBps)
-  - [Worked Exercise 2.2](https://youtu.be/oUMQbZ4SBuM)
-  - [Worked Exercise 2.3](https://youtu.be/-iUA4cCKRlM)
+  - [Worked Exercise 3.1](https://youtu.be/oUMQbZ4SBuM)
+  - [Worked Exercise 3.2](https://youtu.be/-iUA4cCKRlM)
 - ### Images & Text
   - [Slides](../Resources/Slides/Pythonlearn-03-Conditional.pptx)
   - [Chapter One html](https://www.py4e.com/html3/03-conditional)
