@@ -29,11 +29,13 @@ Minimum is 2
 
 **CODE**
 
-see [06.01-min_max.py](05.01-min_max.py)
+see [06.01-min_max.py](06.01-min_max.py)
 
 **RESULT**
 
 ![Console Output](06.01-ConsoleOutput.png)
+
+*NOTE: autograder does not print input("str") to console*
 
 <br>
 
