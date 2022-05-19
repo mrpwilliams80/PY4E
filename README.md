@@ -13,6 +13,7 @@ Dr Severance is a Professor at the University of Michigan and has a number of ed
 - ### [01 Installing Python](01-InstallingPython/01-InstallingPython.md)
 - ### [02 Why Program](02-WhyProgram/02-WhyProgram.md)
 - ### [03 Variables Expressions and Statements](03-VariablesExpressionsStatements/03-VariablesExpressionsStatements.md)
+- ### [04 Conditional Execution](04-ConditionalExecution/04-ConditionalExecution.md)
 
 ## Badges
 
