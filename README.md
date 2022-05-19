@@ -27,9 +27,10 @@ These badges contain the official Open Badge metadata. To validate the badge use
             <img src="Badges/enrolled.png" alt="py4e enrolment badge" style="margin:auto;width:90%">
         </td>
         <td style="width:20%">
-            <img src="Badges/hello.png" alt="py4e enrolment badge" style="margin:auto; width:90%">
+            <img src="Badges/hello.png" alt="py4e hello world badge" style="margin:auto; width:90%">
         </td>
         <td style="width:20%">
+            <img src="Badges/coding.png" alt="py4e coding badge" style="margin:auto; width:90%" >
         </td>
         <td style="width:20%">
         </td>
