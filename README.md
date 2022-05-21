@@ -18,6 +18,7 @@ Dr Severance is a Professor at the University of Michigan and has a number of ed
 - ### [06 Loops and Iterations](06-LoopsIterations/06-LoopsIterations.md)
 - ### [07 Strings](07-Strings/07-Strings.md)
 - ### [08 Files](08-Files/08-Files.md)
+- ### [09 Lists](09-Lists/09-Lists.md)
 
 ## Badges
 
