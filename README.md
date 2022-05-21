@@ -19,6 +19,7 @@ Dr Severance is a Professor at the University of Michigan and has a number of ed
 - ### [07 Strings](07-Strings/07-Strings.md)
 - ### [08 Files](08-Files/08-Files.md)
 - ### [09 Lists](09-Lists/09-Lists.md)
+- ### [10 Dictionaries](10-Dictionaries/10-Dictionaries.md)
 
 ## Badges
 
