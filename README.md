@@ -38,6 +38,7 @@ These badges contain the official Open Badge metadata. To validate the badge use
             <img src="Badges/coding.png" alt="py4e coding badge" style="margin:auto; width:90%" >
         </td>
         <td style="width:20%">
+            <img src="Badges/dataStructs.png" alt="py4e coding badge" style="margin:auto; width:90%" >
         </td>
         <td style="width:20%">
         </td>
